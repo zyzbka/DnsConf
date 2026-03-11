@@ -1,4 +1,5 @@
-# OpenAI
+# OpenAI / ChatGPT
+45.95.233.23 operator.chatgpt.com
 185.68.247.42 chatgpt.com
 185.68.247.42 ab.chatgpt.com
 185.68.247.42 auth.openai.com
@@ -15,12 +16,25 @@
 185.68.247.42 sora.chatgpt.com
 185.68.247.42 videos.openai.com
 
-# Gemini
+# Gemini / Google AI
 185.68.247.42 gemini.google.com
+185.68.247.42 alkalimakersuite-pa.clients6.google.com
+185.68.247.42 aisandbox-pa.googleapis.com
+185.68.247.42 webchannel-alkalimakersuite-pa.clients6.google.com
+185.68.247.42 proactivebackend-pa.googleapis.com
+185.68.247.42 o.pki.goog
+185.68.247.42 labs.google
 185.68.247.42 notebooklm.google
 185.68.247.42 notebooklm.google.com
 
-# Copilot
+# Microsoft Copilot
 185.68.247.42 copilot.microsoft.com
 185.68.247.42 sydney.bing.com
 185.68.247.42 edgeservices.bing.com
+185.68.247.42 rewards.bing.com
+185.68.247.42 xsts.auth.xboxlive.com
+
+# Grok / xAI
+185.68.247.42 grok.com
+185.68.247.42 assets.grok.com
+185.68.247.42 accounts.x.ai
