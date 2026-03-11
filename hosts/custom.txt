@@ -1,0 +1,26 @@
+# OpenAI
+185.68.247.42 chatgpt.com
+185.68.247.42 ab.chatgpt.com
+185.68.247.42 auth.openai.com
+185.68.247.42 auth0.openai.com
+185.68.247.42 platform.openai.com
+185.68.247.42 cdn.oaistatic.com
+185.68.247.42 files.oaiusercontent.com
+185.68.247.42 cdn.auth0.com
+185.68.247.42 tcr9i.chat.openai.com
+185.68.247.42 webrtc.chatgpt.com
+185.68.247.42 android.chat.openai.com
+185.68.247.42 api.openai.com
+185.68.247.42 sora.com
+185.68.247.42 sora.chatgpt.com
+185.68.247.42 videos.openai.com
+
+# Gemini
+185.68.247.42 gemini.google.com
+185.68.247.42 notebooklm.google
+185.68.247.42 notebooklm.google.com
+
+# Copilot
+185.68.247.42 copilot.microsoft.com
+185.68.247.42 sydney.bing.com
+185.68.247.42 edgeservices.bing.com
